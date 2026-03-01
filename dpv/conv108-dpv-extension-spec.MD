@@ -6,7 +6,7 @@
 **Date:** 2026-02-22  
 **Editor:** Mark Lizar, Digital Transparency Lab  
 
-**Scope note (important):** This document describes a *Convention 108+ legal-model extension for DPV* and its integration points with the **‘Digital’ Consent Record Information Structure Profile** (normative reference: ISO/IEC 27560). It is not to be used as a DPV:27560 implementation guide, as these are not compatible.
+**Scope note (important):** This document describes a *Convention 108+ legal-model extension for DPV* and its integration points as guided in [dpv-issue](https://github.com/w3c/dpv/issues/414) separting this as a separate profile for a **‘Digital’ Consent Record Information Structure Profile** (normative reference: ISO/IEC 27560). It is not to be used as a DPV:27560 implementation guide, as these are not compatible.
 
 ## Abstract
 The Convention 108+ extension (`conv108`) extends the W3C Data Privacy Vocabulary (DPV) with concepts for the Council of Europe’s Convention 108+ (Treaty 223). The goal is to enable **machine-readable** representation of Convention 108+ legal bases, rights, principles, and transparency requirements, and to support semantic interoperability between:
